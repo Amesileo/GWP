@@ -84,7 +84,8 @@ footer {
     width: 100%;
     color: #fff;
     >img {
-        max-width: 50dvw;
+        width: 200px;
+        height: auto;
         padding: 30px;
     }
 }
